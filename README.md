@@ -10,9 +10,9 @@ Welcome to my GitHub portfolio! I showcase my mechanical CAD projects and other 
 ## 📁 My Projects
 
 ### Mechanical CAD Projects
-- **[Project Name 1](https://github.com/jatinsharmahoon/Effective-Properties-of-Smart-Composites-using-Finite-Element-Analysis-)** - Brief description
-- **[Project Name 2](https://github.com/jatinsharmahoon/Circular-Re-Entrant)** - Brief description
-- **[Project Name 3](https://github.com/jatinsharmahoon/Pressure-Profile-of-Journal-bearing)** - Brief description
+- **[Effective Properties of Smart Composites using Finite Element Analysis](https://github.com/jatinsharmahoon/Effective-Properties-of-Smart-Composites-using-Finite-Element-Analysis-)** - Brief description
+- **[Circular Re Entrant](https://github.com/jatinsharmahoon/Circular-Re-Entrant)** - Brief description
+- **[Pressure Profile of Journal bearing](https://github.com/jatinsharmahoon/Pressure-Profile-of-Journal-bearing)** - Brief description
 
 ### Other Projects
 - **[Project Name](link-to-repo)** - Brief description
