@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Jatin Sharma 👋
 
-<!--
-**jatinsharmahoon/jatinsharmahoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio! I showcase my mechanical CAD projects and other creative work here.
 
-Here are some ideas to get you started:
+## 🔧 About Me
+- Passionate about mechanical design and CAD
+- Exploring new technologies and projects
+- Always learning and improving my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 My Projects
+
+### Mechanical CAD Projects
+- **[Project Name 1](link-to-repo)** - Brief description
+- **[Project Name 2](link-to-repo)** - Brief description
+- **[Project Name 3](link-to-repo)** - Brief description
+
+### Other Projects
+- **[Project Name](link-to-repo)** - Brief description
+
+## 🛠️ Skills
+- CAD Software (Fusion 360, SolidWorks, AutoCAD, etc.)
+- 3D Modeling & Design
+- [Other skills]
+
+## 📧 Get in Touch
+- Email: jatinsharmark@gmail.com
+- LinkedIn: [Your Profile]
+- Portfolio: [Your Website]
+
+---
+
+*Last updated: [Date]*
