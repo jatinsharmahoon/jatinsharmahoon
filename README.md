@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio! I showcase my mechanical CAD projects and other 
 
 ## 📁 My Projects
 
-### Mechanical CAD Projects
+### Mechanical CAD and Simualation Projects
 - **[Effective Properties of Smart Composites using Finite Element Analysis](https://github.com/jatinsharmahoon/Effective-Properties-of-Smart-Composites-using-Finite-Element-Analysis-)** - Brief description
 - **[Circular Re Entrant](https://github.com/jatinsharmahoon/Circular-Re-Entrant)** - Brief description
 
