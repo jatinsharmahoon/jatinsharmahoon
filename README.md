@@ -1,6 +1,6 @@
 ## Hi, I'm Jatin Sharma 👋
 
-Welcome to my GitHub portfolio! I showcase my mechanical CAD projects and other creative work here.
+Welcome to my GitHub portfolio! I showcase my mechanical CAD projects, Simulation projects, Matlab Scripts and other creative work here.
 
 ## 🔧 About Me
 - Passionate about mechanical design and CAD
