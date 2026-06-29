@@ -20,9 +20,12 @@ Welcome to my GitHub portfolio! I showcase my mechanical CAD projects, Simulatio
 - **[Column_strength_analysis](https://github.com/jatinsharmahoon/column_strength_analysis)** - A Python-based desktop engineering application developed for the Mechanics of Solids framework (ME-211) at NIT Hamirpur. The tool executes stability evaluations for columns under concentric axial loading, applying three core classical/empirical structural mechanics theories: Euler's Elastic Buckling, Rankine's Empirical Theory, and Johnson's Parabolic Formula.
   
 ##  Skills
-- CAD Software (SolidWorks, Siemens NX etc.)
-- 3D Modeling & Design
-- FEA (ANSYS, Mesh optimization, Stress Analysis)
+- **Languages:** Python, MATLAB
+- **Software:**  SolidWorks, Siemens NX, Catia 
+- **ANSYS CAE and Engineering Analysis:** Finite Element Analysis, Finite element Method, Mesh Optimization , Stress, Analysis , MATLAB
+- **Optomization & Development tools:** VS Code, Git
+- **Frame works/ Libraries:**  Matplotlib, Tkinter, Pandas, NumPy,
+- **Exporting:** STEP, STL for 3D Printing
 
 ## 📧 Get in Touch
 - Email: jatinsharmark@gmail.com
@@ -31,4 +34,4 @@ Welcome to my GitHub portfolio! I showcase my mechanical CAD projects, Simulatio
 
 ---
 
-*Last updated: [27/06/2026]*
+*Last updated: [29/06/2026]*
