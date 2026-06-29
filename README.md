@@ -17,7 +17,7 @@ Welcome to my GitHub portfolio! I showcase my mechanical CAD projects, Simulatio
 ### Other Projects
 - **[Pressure Profile of Journal bearing](https://github.com/jatinsharmahoon/Pressure-Profile-of-Journal-bearing)** - This repository contains a MATLAB implementation of a Finite Difference Method (FDM) solver designed to map the 3D fluid pressure distribution inside a hydrodynamic journal bearing. By resolving the non-dimensional Reynolds Equation through an iterative Gauss-Seidel approach, the script accurately models the fluid film lubrication behavior under varying eccentricity levels.
 
-- **[Column_strength_analysis](https://github.com/jatinsharmahoon/column_strength_analysis)**A Python-based desktop engineering application developed for the Mechanics of Solids framework (ME-211) at NIT Hamirpur. The tool executes stability evaluations for columns under concentric axial loading, applying three core classical/empirical structural mechanics theories: Euler's Elastic Buckling, Rankine's Empirical Theory, and Johnson's Parabolic Formula.
+- **[Column_strength_analysis](https://github.com/jatinsharmahoon/column_strength_analysis)** - A Python-based desktop engineering application developed for the Mechanics of Solids framework (ME-211) at NIT Hamirpur. The tool executes stability evaluations for columns under concentric axial loading, applying three core classical/empirical structural mechanics theories: Euler's Elastic Buckling, Rankine's Empirical Theory, and Johnson's Parabolic Formula.
   
 ##  Skills
 - CAD Software (SolidWorks, Siemens NX etc.)
