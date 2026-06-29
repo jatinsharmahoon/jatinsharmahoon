@@ -22,7 +22,7 @@ Welcome to my GitHub portfolio! I showcase my mechanical CAD projects, Simulatio
   
 - **[Composite Lamina Mechanics Solver](https://github.com/jatinsharmahoon/Composite-Lamina-Mechanics-Solver)** - A MATLAB application developed to analyze the macromechanical behavior of a unidirectional orthotropic composite lamina. The script calculates and simulates the variation of transformed engineering constants—Longitudinal Modulus ($E_x$), Transverse Modulus ($E_y$), and Shear Modulus ($G_{xy}$)—across a continuous fiber orientation angle sweep from $0^\circ$ to $90^\circ$.
   
--**[Classical Laminate Theory (CLT) Calculator](https://github.com/jatinsharmahoon/Classical-Laminate-Theory-Solver)** - A MATLAB script that performs full Classical Laminate Theory analysis on a user-defined composite laminate: builds the ABD stiffness matrix, solves for mid-plane strains and curvatures under applied loads/moments, and recovers ply-by-ply stress and strain in both global and material (local) coordinate systems.
+- **[Classical Laminate Theory (CLT) Calculator](https://github.com/jatinsharmahoon/Classical-Laminate-Theory-Solver)** - A MATLAB script that performs full Classical Laminate Theory analysis on a user-defined composite laminate: builds the ABD stiffness matrix, solves for mid-plane strains and curvatures under applied loads/moments, and recovers ply-by-ply stress and strain in both global and material (local) coordinate systems.
   
 ##  Skills
 - **Languages:** Python, MATLAB
