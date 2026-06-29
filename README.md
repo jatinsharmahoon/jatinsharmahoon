@@ -19,7 +19,7 @@ Welcome to my GitHub portfolio! I showcase my mechanical CAD projects, Simulatio
 
 - **[Column strength analysis](https://github.com/jatinsharmahoon/column_strength_analysis)** - A Python-based desktop engineering application developed for the Mechanics of Solids framework (ME-211) at NIT Hamirpur. The tool executes stability evaluations for columns under concentric axial loading, applying three core classical/empirical structural mechanics theories: Euler's Elastic Buckling, Rankine's Empirical Theory, and Johnson's Parabolic Formula.
   
-- **[Composite Lamina Mechanics-Solver](https://github.com/jatinsharmahoon/Composite-Lamina-Mechanics-Solver)** - A MATLAB application developed to analyze the macromechanical behavior of a unidirectional orthotropic composite lamina. The script calculates and simulates the variation of transformed engineering constants—Longitudinal Modulus ($E_x$), Transverse Modulus ($E_y$), and Shear Modulus ($G_{xy}$)—across a continuous fiber orientation angle sweep from $0^\circ$ to $90^\circ$.
+- **[Composite Lamina Mechanics Solver](https://github.com/jatinsharmahoon/Composite-Lamina-Mechanics-Solver)** - A MATLAB application developed to analyze the macromechanical behavior of a unidirectional orthotropic composite lamina. The script calculates and simulates the variation of transformed engineering constants—Longitudinal Modulus ($E_x$), Transverse Modulus ($E_y$), and Shear Modulus ($G_{xy}$)—across a continuous fiber orientation angle sweep from $0^\circ$ to $90^\circ$.
 
 ##  Skills
 - **Languages:** Python, MATLAB
